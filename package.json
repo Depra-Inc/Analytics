@@ -1,12 +1,13 @@
 {
-	"name": "com.depra.template",
+	"name": "com.depra.analytics",
 	"version": "0.0.1",
-	"displayName": "Unity Package Template",
-	"description": "Template for creating Unity game engine packages.",
-	"unity": "2022.3",
+	"displayName": "Depra.Analytics",
+	"description": "",
+	"unity": "2021.3",
 	"license": "Apache-2.0",
-  "dependencies": {},
-	"keywords": [],
+	"keywords": [
+		"analytics"
+	],
 	"author": {
 		"name": "Depra, Inc.",
 		"email": "n.melnikov@depra.org",
@@ -14,6 +15,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/Depra-Inc/Template.Package.Unity.git"
+		"url": "https://github.com/Depra-Inc/Analytics.git"
 	}
 }
